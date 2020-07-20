@@ -180,6 +180,7 @@ body {
 }
 .section-block {
     padding-top: 94px;
+    padding-bottom: 94px;
 }
 .section-title {
     font-weight: 700;
@@ -275,7 +276,6 @@ margin-left: 10px;
 .clients-list {
     display: flex;
     justify-content: center;
-    padding-bottom: 94px;
 }
 .clients-item {
     display : flex;
